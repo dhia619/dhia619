@@ -1,4 +1,4 @@
-Hi there, I'm Mohamed Dhia Bouali! 👋
+# Hi there, I'm Mohamed Dhia Bouali! 👋
 
 I'm a passionate Data Science student specializing in Big Data and Data Analytics. I'm eager to explore the realms of data to unlock insights and drive innovation. Here's a bit about me:
 
