@@ -33,7 +33,7 @@ I'm a passionate Data Science student specializing in Big Data and Data Analytic
 
 ## 📫 How to reach me:
 
-- **Email**: [](dhiabouali250@gmail.com)
+- **Email**: [dhiabouali250@gmail.com](dhiabouali250@gmail.com)
 - **LinkedIn**: [mohamed-dhia-bouali](https://www.linkedin.com/in/mohamed-dhia-bouali-03734a253)
 
 
