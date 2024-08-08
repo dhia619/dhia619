@@ -2,11 +2,13 @@ Hi there, I'm Mohamed Dhia Bouali! 👋
 
 I'm a passionate Data Science student specializing in Big Data and Data Analytics. I'm eager to explore the realms of data to unlock insights and drive innovation. Here's a bit about me:
 
-🚀 About Me
-🎓 Education: I'm currently pursuing my degree in Computer Science with a focus on Big Data and Data Analytics.
-💡 Interests: I'm interested in data visualization, machine learning, and building intelligent systems.
-🌱 Learning: Always learning and currently diving deep into advanced data analytics and machine learning.
-⚡ Fun Fact: I love solving puzzles and exploring new technologies in my spare time.
+## 🚀 About Me
+
+- 🎓 **Education**: I'm currently pursuing my degree in Computer Science with a focus on Big Data and Data Analytics.
+- 💡 **Interests**: I'm interested in data visualization, machine learning, and building intelligent systems.
+- 🌱 **Learning**: Always learning and currently diving deep into advanced data analytics and machine learning.
+- ⚡ **Fun Fact**: I love solving puzzles and exploring new technologies in my spare time.
+
 🛠️ Languages & Tools
 - **Programming Languages**: 
   - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
