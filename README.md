@@ -2,12 +2,16 @@ Hi there, I'm Mohamed Dhia Bouali! 👋
 
 I'm a passionate Data Science student specializing in Big Data and Data Analytics. I'm eager to explore the realms of data to unlock insights and drive innovation. Here's a bit about me:
 
+---
+
 ## 🚀 About Me
 
 - 🎓 **Education**: I'm currently pursuing my degree in Computer Science with a focus on Big Data and Data Analytics.
 - 💡 **Interests**: I'm interested in data visualization, machine learning, and building intelligent systems.
 - 🌱 **Learning**: Always learning and currently diving deep into advanced data analytics and machine learning.
 - ⚡ **Fun Fact**: I love solving puzzles and exploring new technologies in my spare time.
+
+---
 
 🛠️ Languages & Tools
 - **Programming Languages**: 
@@ -25,10 +29,14 @@ I'm a passionate Data Science student specializing in Big Data and Data Analytic
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 
+---
 
-📫 How to reach me:
-Email: dhiabouali250@gmail.com
-LinkedIn: (https://www.linkedin.com/in/mohamed-dhia-bouali-03734a253)
+## 📫 How to reach me:
+
+- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+
 
 
 Feel free to explore my repositories and connect with me! I'm always open to collaboration and new opportunities. Let's create something amazing together! 😊
