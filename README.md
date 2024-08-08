@@ -13,7 +13,7 @@ I'm a passionate Data Science student specializing in Big Data and Data Analytic
 
 ---
 
-🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 - **Programming Languages**: 
   - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
