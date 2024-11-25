@@ -7,7 +7,7 @@ I'm a passionate Computer Science student specializing in Big Data and Data Anal
 ## 🚀 About Me
 
 - 🎓 **Education**: I'm currently pursuing my degree in Computer Science with a focus on Big Data and Data Analytics.
-- 💡 **Interests**: "I'm interested in deep learning and building intelligent systems..
+- 💡 **Interests**: I'm interested in deep learning and building intelligent systems.
 - 🌱 **Learning**: Always learning and currently diving deep into advanced data analytics, deep learning, and computer vision.
 
 ---
