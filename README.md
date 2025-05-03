@@ -1,26 +1,67 @@
-# Hi there, I'm Mohamed Dhia Bouali! 👋
+<h1 align="center">hey there 👋</h1>
 
-I'm a passionate Computer Science student specializing in Big Data and Data Analytics. I'm eager to explore the realms of data to unlock insights and drive innovation. Here's a bit about me:
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
-## 🚀 About Me
+###
 
-- 🎓 **Education**: I'm currently pursuing my degree in Computer Science with a focus on Big Data and Data Analytics.
-- 💡 **Interests**: I'm interested in deep learning and building intelligent systems.
-- 🌱 **Learning**: Always learning and currently diving deep into advanced data analytics, deep learning, and computer vision.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhia619.dhia619&"  />
+</div>
 
----
+###
 
-## 🛠️ Languages & Tools
+<h3 align="left">👩‍💻  About Me</h3>
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square) 
+###
 
----
+<p align="left">Hi, I'm Mohamed Dhia Bouali👋<br><br>🔭 I’m currently a student passionate about Artificial Intelligence, Machine Learning, and Computer Vision.<br><br>📚 I'm constantly learning and building projects in deep learning, neural networks, and computer vision techniques.<br><br>⚡ In my free time, I love experimenting with code, training custom models, and exploring the latest research in AI.</p>
 
-## 📫 How to reach me:
+###
 
-- **Email**: [dhiabouali250@gmail.com](dhiabouali250@gmail.com)
-- **LinkedIn**: [mohamed-dhia-bouali](https://www.linkedin.com/in/mohamed-dhia-bouali-03734a253)
+<h3 align="left">🛠 Language and tools</h3>
 
-Feel free to explore my repositories and connect with me! I'm always open to collaboration and new opportunities. Let's create something amazing together! 😊
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dhia619&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
